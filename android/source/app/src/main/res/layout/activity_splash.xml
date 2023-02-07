@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:gravity="center"
+	android:orientation="vertical"
+	android:background="#ffffff"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent">
+
+	<Button
+		android:background="@drawable/ic_launcher"
+		android:layout_width="180.0dip"
+		android:layout_height="180.0dip"
+		android:layout_marginBottom="10.0dip"
+		android:text="‌"/>
+
+	<TextView
+		android:textAppearance="?android:textAppearanceMedium"
+		android:textSize="20.0sp"
+		android:textStyle="bold"
+		android:textColor="#000000"
+		android:id="@id/title"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="کــــاریــــار"/>
+
+	<TextView
+		android:textAppearance="?android:textAppearanceSmall"
+		android:textColor="#000000"
+		android:id="@+id/note"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="یار شما برای یافتن کار مناسب!"/>
+
+</LinearLayout>
+

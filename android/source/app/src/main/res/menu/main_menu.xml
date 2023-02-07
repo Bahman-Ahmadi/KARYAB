@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <item
+        android:id="@+id/mainMenuAbout"
+        android:title="دربارهٔ سازنده"/>
+    
+    <item
+        android:id="@+id/mainMenuHelp"
+        android:title="راهنما"/>
+    
+    <item
+        android:id="@+id/mainMenuUpdateJobs"
+        android:title="به‌روزرسانی مشاغل"/>
+
+    <item
+        android:id="@+id/mainMenuExit"
+        android:title="خروج از برنامه!"/>
+    
+</menu>

@@ -1,0 +1,12 @@
+* {
+    height : 30px;
+    overflow: scroll
+}
+QPushButton {
+    background: #7dbe00;
+	color: black;
+	width: 20px;
+}
+QLabel {
+    width : 20px;
+}
